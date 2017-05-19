@@ -1,3 +1,5 @@
 # Canberk
-[Index](Index.html)
+
+[Index](index.html)
+
 `Created by Canberk Çevik`
